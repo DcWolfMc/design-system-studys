@@ -1,0 +1,3 @@
+{
+    "extends": "@igniteds-ui/eslint-config"
+}

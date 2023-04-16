@@ -9,13 +9,15 @@
   "scripts": {
 
     "build": "tsup src/index.ts --format esm,cjs --dts",
-    "dev":  "tsup src/index.ts --format esm,cjs --dts --watch"
+    "dev":  "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
     "@igniteds-ui/ts-config":"*",
+    "@igniteds-ui/eslint-config":"*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   }
