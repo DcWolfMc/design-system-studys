@@ -1,6 +1,6 @@
 {
   "name": "@igniteds-ui/eslint-config",
-  "private": "true",
+  "private": true,
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {

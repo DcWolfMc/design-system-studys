@@ -1,6 +1,6 @@
 import {colors} from "@igniteds-ui/tokens";
 
-function App() {
+export function App() {
     return{
         
     }
