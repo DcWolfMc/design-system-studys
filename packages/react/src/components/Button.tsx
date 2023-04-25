@@ -1,5 +1,5 @@
 import { styled } from "../styles";
-import { ComponentProps } from "react";
+import { ComponentProps, ElementType } from "react";
 export const Button = styled("button", {
   padding: "$4",
   borderRadius: "$md",
@@ -7,4 +7,6 @@ export const Button = styled("button", {
   border: "1px solid $ignite500",
 });
 
-export interface ButtonProps extends ComponentProps<typeof Button> {}
+export interface ButtonProps extends ComponentProps<typeof Button> {
+    as?: ElementType,
+}
