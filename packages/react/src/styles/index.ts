@@ -6,7 +6,7 @@ export const { createTheme, styled, globalCss, css, keyframes, getCssText, theme
         colors: colors,
         fontSizes: fontSizes,
         fontWeights: fontWeights,
-        font: fonts,
+        fonts: fonts,
         lineHeights: lineHeights,
         radii: radii,
         space: space,
