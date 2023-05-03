@@ -3,7 +3,7 @@ import { Box, Text, Checkbox, CheckboxProps } from "@igniteds-ui/react";
 
 // configuração global do componente do Stories
 export default {
-  title: "Form/Text Area",
+  title: "Form/Checkbox",
   component: Checkbox,
   args: {
     placeholder: "Type your thoughts",
