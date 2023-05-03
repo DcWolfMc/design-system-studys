@@ -16,3 +16,4 @@ export const TextInput: FunctionComponent<TextInputProps> = ({
     </TextInputContainer>
   );
 };
+TextInput.displayName = 'TextInput'

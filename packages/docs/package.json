@@ -29,6 +29,7 @@
     "@igniteds-ui/react": "*",
     "@igniteds-ui/tokens": "*",
     "@igniteds-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^7.0.8",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

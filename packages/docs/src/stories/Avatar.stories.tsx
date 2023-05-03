@@ -8,8 +8,14 @@ export default {
   component: Avatar,
 
   args: { src : 'https://github.com/DcWolfMc.png', alt: "Daniel Colares"
- 
+  
 },
+argTypes:{
+  src:{
+    control:{type: null}
+
+  }
+}
  } as Meta<AvatarProps>;
 
 // configuração do tipo do componente do Stories
