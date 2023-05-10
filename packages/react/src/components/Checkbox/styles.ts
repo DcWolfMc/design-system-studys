@@ -13,7 +13,7 @@ export const CheckboxContainer = styled(Checkbox.Root,{
     boxSizing:"border-box",
     display:"flex",
     justifyContent:"center",
-    alignItems:"end",
+    alignItems:"center",
     
     border: "2px solid $gray900",
 
@@ -22,7 +22,7 @@ export const CheckboxContainer = styled(Checkbox.Root,{
 
     },
 
-    '$:focus':{
+    '&:focus':{
         border: "2px solid $ignite300",
     },
 
