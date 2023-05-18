@@ -15,8 +15,9 @@
   <a href="#check-aplication">Check Aplication</a>
   
 </p>
-
-![screenshot](https://i.imgflip.com/7map8z.gif)
+<p align="center">
+  <img src="https://i.imgflip.com/7map8z.gif" width=540 height=303/>
+</p>
 
 ## Key Features
 
