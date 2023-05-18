@@ -16,7 +16,7 @@
   
 </p>
 <p align="center">
-  <img src="https://i.imgflip.com/7map8z.gif" width=540 height=303/>
+  <img src=design-system-studys width=540 height="270"/>
 </p>
 
 ## Key Features
