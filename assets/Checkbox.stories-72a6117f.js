@@ -1,0 +1,4 @@
+import{a as t,j as c}from"./jsx-runtime-91a467a5.js";import{C as m,B as i,T as p}from"./index-c48e95c8.js";import"./index-8db94870.js";import"./_commonjsHelpers-042e6b4d.js";import"./extends-98964cd2.js";import"./index-8ce4a492.js";const f={title:"Form/Checkbox",component:m,args:{placeholder:"Type your thoughts"},decorators:[a=>t(i,{as:"label",css:{display:"flex",flexDirection:"row",gap:"$2"},children:[a(),c(p,{size:"sm",children:"Accept Terms of use"})]})]},r={args:{}};var e,s,o;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:`{
+  args: {}
+}`,...(o=(s=r.parameters)==null?void 0:s.docs)==null?void 0:o.source}}};const g=["Primary"];export{r as Primary,g as __namedExportsOrder,f as default};
+//# sourceMappingURL=Checkbox.stories-72a6117f.js.map
